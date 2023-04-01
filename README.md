@@ -27,7 +27,7 @@ Com isso, neste estudo de caso utilizo um dataset contendo dados sobre a vendas 
 
 ## 💻 DEMONSTRAÇÕES
 ### POWER BI - GERAL
-![](https://i.postimg.cc/QxZc8g30/sales-1.jpg)
+![](https://i.postimg.cc/TwwhYw7d/testing.png)
 ![](https://i.postimg.cc/L4rq23zm/sales-analysis2.png)
 ![](https://i.postimg.cc/25PbHdjc/sales003.png)
 
