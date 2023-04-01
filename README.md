@@ -27,13 +27,13 @@ Com isso, neste estudo de caso utilizo um dataset contendo dados sobre a vendas 
 
 ## 💻 DEMONSTRAÇÕES
 ### POWER BI - GERAL
-![](https://i.postimg.cc/htRK3CV7/sales-analysis1.png)
+![](https://i.postimg.cc/QxZc8g30/sales-1.jpg)
 ![](https://i.postimg.cc/L4rq23zm/sales-analysis2.png)
 ![](https://i.postimg.cc/25PbHdjc/sales003.png)
 
 ### PYTHON
 ![](https://i.postimg.cc/TPdMFLK3/sales22.png)
-![](https://i.postimg.cc/8PvS6V8N/sales2.png)
+![](https://i.postimg.cc/QCp4F6Pq/sales2-top10.png)
 ![](https://i.postimg.cc/SKgFhS97/sales44.png)
 ![](https://i.postimg.cc/Gm11PSrY/sales4.png)
 ![](https://i.postimg.cc/Px7gCS2C/sales444.png)
