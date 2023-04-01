@@ -21,8 +21,8 @@ Com isso, neste estudo de caso utilizo um dataset contendo dados sobre a vendas 
 - Github/Gitbash
   
 ## 🌐 LINKS
-- [Publicação]() (Portfólio)
-- [Análise de vendas]() (Jupyter Notebook)
+- [Publicação](https://pinheiro-dataset.github.io/portfolio/sales.html) (Portfólio)
+- [Análise de vendas](https://nbviewer.org/github/Pinheiro-dataset/sales-analysis/blob/main/Sales_analysis.ipynb) (Jupyter Notebook)
 - [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTdlNGFjNzEtZmRjOS00MTE3LThiMzEtZTI5NmE1ODA2YWNhIiwidCI6IjBkZjE5YTliLTgyMDItNDA3ZC04ZDQ3LWFiMGZkOTJiYmJmMiJ9) (Portfólio)
 
 ## 💻 DEMONSTRAÇÕES
