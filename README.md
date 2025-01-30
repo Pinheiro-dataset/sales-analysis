@@ -25,28 +25,8 @@ Com isso, neste estudo de caso utilizo um dataset contendo dados sobre a vendas 
 - [Análise de vendas](https://nbviewer.org/github/Pinheiro-dataset/sales-analysis/blob/main/Sales_analysis.ipynb) (Jupyter Notebook)
 - [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTdlNGFjNzEtZmRjOS00MTE3LThiMzEtZTI5NmE1ODA2YWNhIiwidCI6IjBkZjE5YTliLTgyMDItNDA3ZC04ZDQ3LWFiMGZkOTJiYmJmMiJ9) (Portfólio)
 
-## 💻 DEMONSTRAÇÕES
-### POWER BI - GERAL
-![](https://i.postimg.cc/TwwhYw7d/testing.png)
-![](https://i.postimg.cc/L4rq23zm/sales-analysis2.png)
-![](https://i.postimg.cc/25PbHdjc/sales003.png)
 
-### PYTHON
-![](https://i.postimg.cc/TPdMFLK3/sales22.png)
-![](https://i.postimg.cc/QCp4F6Pq/sales2-top10.png)
-![](https://i.postimg.cc/SKgFhS97/sales44.png)
-![](https://i.postimg.cc/Gm11PSrY/sales4.png)
-![](https://i.postimg.cc/Px7gCS2C/sales444.png)
-![](https://i.postimg.cc/W16c56by/sales5.png)
-![](https://i.postimg.cc/C1dyM3Hy/sales55.png)
-![](https://i.postimg.cc/DZmsBZcy/sales5.png)
-![](https://i.postimg.cc/jj37Y0xj/sales51.png)
-![](https://i.postimg.cc/7h8bqqpq/sales6.png)
-![](https://i.postimg.cc/hjFKdpMr/sales66.png)
-![](https://i.postimg.cc/CLvYNFmd/sales666.png)
-![](https://i.postimg.cc/DwHT9xVT/sales6666.png)
-
-## ✅  CONSIDERAÇÕES FINAIS
+## ✅  CONSIDERAÇÕES
 
 Neste estudo de caso foi revelado os **produtos mais rentáveis**, assim como os **mais comprados** e também aqueles **menos procurados** pelos consumidores. Foi demonstrado  também, quais **grupos de faixa etária são os principais consumidores**, além de encontrar a **localização de onde concentra-se as principais receitas de vendas**, entre outras informações. 
 
